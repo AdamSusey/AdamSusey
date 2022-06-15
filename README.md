@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamSusey
-- 👀 I’m interested in ... all things programming!
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... All things programming!
+- 🌱 I’m currently learning ... Excel, Python, SQL, R, Tableau!
 - 💞️ I’m looking to collaborate on ... Anything. Always trying to learn an adapt!
 - 📫 How to reach me ... adamsusey@gmail.com
 
